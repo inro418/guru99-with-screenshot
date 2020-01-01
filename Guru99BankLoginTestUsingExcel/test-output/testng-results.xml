@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79814" started-at="2020-01-01T16:53:59Z" finished-at="2020-01-01T16:55:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="79814" started-at="2020-01-01T16:53:59Z" finished-at="2020-01-01T16:55:19Z">
+      <class name="utils.Guru99ScreenShotTaken">
+        <test-method status="PASS" signature="CaptureScreenshot()[pri:0, instance:utils.Guru99ScreenShotTaken@53b32d7]" name="CaptureScreenshot" duration-ms="10143" started-at="2020-01-01T16:55:09Z" finished-at="2020-01-01T16:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenshot -->
+      </class> <!-- utils.Guru99ScreenShotTaken -->
+      <class name="utils.ExcelDataProvider">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:utils.ExcelDataProvider@343f4d3d]" name="setUpTest" is-config="true" duration-ms="4471" started-at="2020-01-01T16:53:59Z" finished-at="2020-01-01T16:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@343f4d3d]" name="test1" duration-ms="15189" started-at="2020-01-01T16:54:05Z" data-provider="test1data" finished-at="2020-01-01T16:54:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr239615]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mygaryq]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@343f4d3d]" name="test1" duration-ms="15985" started-at="2020-01-01T16:54:20Z" data-provider="test1data" finished-at="2020-01-01T16:54:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr239616]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mygaryq]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@343f4d3d]" name="test1" duration-ms="17054" started-at="2020-01-01T16:54:36Z" data-provider="test1data" finished-at="2020-01-01T16:54:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr239615]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mygaryp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@343f4d3d]" name="test1" duration-ms="15532" started-at="2020-01-01T16:54:53Z" data-provider="test1data" finished-at="2020-01-01T16:55:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr239618]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mygaryt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- utils.ExcelDataProvider -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
